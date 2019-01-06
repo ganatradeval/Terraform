@@ -1,0 +1,7 @@
+MYSQL_ROOT_PASSWORD 	= "aqwe123"
+MYSQL_USER              = "wpuser"
+MYSQL_PASSWORD          = "wpuser@"
+MYSQL_DATABASE          = "wordpress_db"
+WORDPRESS_DB_USER       = "wpuser"
+WORDPRESS_DB_PASSWORD   = "wpuser@"
+WORDPRESS_DB_NAME       ="wordpress_db"
